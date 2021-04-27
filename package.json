@@ -3,6 +3,7 @@
 	"author": "Aidan Sabin",
 	"description": "this project is being used for the purpose of completing the Managing Packages with NPM section of the FreeCodeCamp curriculum",
 	"keywords": ["freecodecamp", "learning", "lesson"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
